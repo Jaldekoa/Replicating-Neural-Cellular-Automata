@@ -13,4 +13,6 @@ The input image has the shape of (64, 64, 4) with 3 channels for the RGB color a
 The result obtained in 5,000 epochs with only one batch is the following.
 ![Replicating Neural Cellular Automata](https://github.com/Jaldekoa/Replicating-Neural-Cellular-Automata/blob/master/Img/Replicating%20Neural%20Cellular%20Automata.gif)
 
-<center><img src="https://github.com/Jaldekoa/Replicating-Neural-Cellular-Automata/blob/master/Img/Replicating%20Neural%20Cellular%20Automata.gif"></img></center>
+<p align="center">
+  <img src="https://github.com/Jaldekoa/Replicating-Neural-Cellular-Automata/blob/master/Img/Replicating%20Neural%20Cellular%20Automata.gif"/>
+</p>
