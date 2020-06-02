@@ -1,2 +1,2 @@
 # Replicating Neural Cellular Automata
-![Replicating Neural Cellular Automata](Replicating Neural Cellular Automata.gif.gif)
+![Replicating Neural Cellular Automata](Replicating Neural Cellular Automata.gif)
